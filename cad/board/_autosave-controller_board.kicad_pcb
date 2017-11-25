@@ -3,7 +3,7 @@
   (general
     (links 36)
     (no_connects 0)
-    (area 0 0 0 0)
+    (area 14.529999 12.624999 90.245001 86.227619)
     (thickness 1.6)
     (drawings 6)
     (tracks 179)
@@ -85,9 +85,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory ""))
+      (outputdirectory ../../cam/board/))
   )
 
   (net 0 "")
