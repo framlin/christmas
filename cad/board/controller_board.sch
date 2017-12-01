@@ -403,7 +403,7 @@ U 1 1 5A16DA3F
 P 5021 1369
 F 0 "R1" V 5101 1369 50  0000 C CNN
 F 1 "R" V 5021 1369 50  0000 C CNN
-F 2 "Resistors_SMD:R_1206_HandSoldering" V 4951 1369 50  0001 C CNN
+F 2 "Resistors_ThroughHole:R_Axial_DIN0309_L9.0mm_D3.2mm_P5.08mm_Vertical" V 4951 1369 50  0001 C CNN
 F 3 "" H 5021 1369 50  0001 C CNN
 	1    5021 1369
 	0    1    1    0   
@@ -414,7 +414,7 @@ U 1 1 5A16DBEA
 P 5021 1669
 F 0 "R2" V 5101 1669 50  0000 C CNN
 F 1 "R" V 5021 1669 50  0000 C CNN
-F 2 "Resistors_SMD:R_1206_HandSoldering" V 4951 1669 50  0001 C CNN
+F 2 "Resistors_ThroughHole:R_Axial_DIN0309_L9.0mm_D3.2mm_P5.08mm_Vertical" V 4951 1669 50  0001 C CNN
 F 3 "" H 5021 1669 50  0001 C CNN
 	1    5021 1669
 	0    1    1    0   
@@ -425,7 +425,7 @@ U 1 1 5A16DD38
 P 5021 1969
 F 0 "R3" V 5101 1969 50  0000 C CNN
 F 1 "R" V 5021 1969 50  0000 C CNN
-F 2 "Resistors_SMD:R_1206_HandSoldering" V 4951 1969 50  0001 C CNN
+F 2 "Resistors_ThroughHole:R_Axial_DIN0309_L9.0mm_D3.2mm_P5.08mm_Vertical" V 4951 1969 50  0001 C CNN
 F 3 "" H 5021 1969 50  0001 C CNN
 	1    5021 1969
 	0    1    1    0   
@@ -436,7 +436,7 @@ U 1 1 5A16DEA5
 P 5021 2269
 F 0 "R4" V 5101 2269 50  0000 C CNN
 F 1 "R" V 5021 2269 50  0000 C CNN
-F 2 "Resistors_SMD:R_1206_HandSoldering" V 4951 2269 50  0001 C CNN
+F 2 "Resistors_ThroughHole:R_Axial_DIN0309_L9.0mm_D3.2mm_P5.08mm_Vertical" V 4951 2269 50  0001 C CNN
 F 3 "" H 5021 2269 50  0001 C CNN
 	1    5021 2269
 	0    1    1    0   
